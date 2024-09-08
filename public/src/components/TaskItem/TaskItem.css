@@ -1,0 +1,7 @@
+.task-container { 
+    padding: 10px; border: 1px solid #ccc; margin-bottom: 10px; 
+}
+
+.completed { 
+    text-decoration: line-through; opacity: 0.6; 
+}
